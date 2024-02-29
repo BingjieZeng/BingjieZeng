@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-### I'm Bingjie Zeng, an advanced master student in KU Leuven.
+### I'm Bingjie Zeng, an advanced master student at KU Leuven.
 
 - 🌱 I'm currently working on diachronic linguistics and vector space models.
-- 🤔 I'm interested in:
+- 😄 I'm interested in:
   - diachronic linguistics
-  - quantitative linguistics
+  - quantitative methods
   - computational linguistics
   - language variation
   - semantic change
+  - linguistic complexity
 - 📫 How to reach me:
   - My homepage: https://bingjiezeng.github.io
   - My email address: zengbingjie.xs@gmail.com
