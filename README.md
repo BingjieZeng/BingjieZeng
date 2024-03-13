@@ -11,7 +11,6 @@
   - semantic change
   - linguistic complexity
 - 📫 How to reach me:
-  - My homepage: https://bingjiezeng.github.io
   - My email address: zengbingjie.xs@gmail.com
 
 <!--
