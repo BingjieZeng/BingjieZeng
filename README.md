@@ -9,4 +9,4 @@
   - language variation and change
   - linguistic complexity
 - 📫 How to reach me:
-  - My email address: zengbingjie.xs@gmail.com/bingjie.zeng@student.kuleuven.be
+  - My email address: zengbingjie.xs@gmail.com / bingjie.zeng@student.kuleuven.be
