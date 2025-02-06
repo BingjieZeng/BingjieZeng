@@ -4,9 +4,10 @@
 
 - 🌱 I'm currently working on computational linguistics and language models.
 - 😄 I'm interested in:
+  - artificial intelligence
   - natural language processing
-  - diachronic linguistics
+  - intelligent language application
   - language variation and change
-  - linguistic complexity
+  - linguistic complexity analysis
 - 📫 How to reach me:
   - My email address: zengbingjie.xs@gmail.com / bingjie.zeng@student.kuleuven.be
