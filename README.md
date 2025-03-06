@@ -2,7 +2,7 @@
 
 ### I'm Bingjie Zeng, an advanced master student of AI at KU Leuven.
 
-- 🌱 I'm currently working on computational linguistics and language models.
+- 🌱 I'm currently working on machine learning and natural language processing.
 - 😄 I'm interested in:
   - artificial intelligence
   - natural language processing
