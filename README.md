@@ -6,8 +6,8 @@
 - 😄 I'm interested in:
   - artificial intelligence
   - natural language processing
-  - intelligent language application
-  - language variation and change
-  - linguistic complexity analysis
+  - intelligent language applications
+  - trustworthy AI
+  - speech language technology
 - 📫 How to reach me:
   - My email address: zengbingjie.xs@gmail.com / bingjie.zeng@student.kuleuven.be
