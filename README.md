@@ -9,4 +9,4 @@
   - AI applications
   - malware analysis
 - 📫 How to reach me:
-  - My email address: zengbingjie.xs@gmail.com / bingjie.zeng@student.kuleuven.be
+  - My email address: zengbingjie.xs@gmail.com / bingjie.zeng@kuleuven.be
