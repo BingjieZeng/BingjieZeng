@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Bingjie Zeng, an advanced master student of AI at KU Leuven.
+### I'm Bingjie Zeng, a PhD student of AI and cybersecurity at KU Leuven.
 
 - 🌱 I'm currently working on cybersecurity and malware analysis.
 - 😄 I'm interested in:
